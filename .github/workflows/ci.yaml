@@ -21,4 +21,4 @@ jobs:
       - name: Build image...
         run: docker-compose build app
       - name: Executing django tests
-        run: docker-compose run --rm app python manage.py test app.api.tests --settings=app.settings_test
+        run: docker-compose run --rm app python manage.py test api.tests --settings=app.settings_test

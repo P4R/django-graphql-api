@@ -1,4 +1,3 @@
-import pdb
 from api.schema import schema
 from django.contrib.auth.models import User
 from graphene_django.utils.testing import GraphQLTestCase
