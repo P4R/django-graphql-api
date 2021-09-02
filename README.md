@@ -1,7 +1,7 @@
 # DJANGO GRAPHQL API Z1
 
 ## Deploy server
----
+
 - Docker Compose is required (https://docs.docker.com/compose/install/)
 
 Clone Repo:
