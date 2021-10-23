@@ -1,5 +1,5 @@
 # DJANGO GRAPHQL API
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ## Deploy server
 
 - Docker Compose is required (https://docs.docker.com/compose/install/)
