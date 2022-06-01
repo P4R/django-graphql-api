@@ -3,7 +3,7 @@ asgiref==3.4.1
 Django==3.2.13
 django-filter==2.4.0
 # django-graphql-auth==0.3.16
--e git+https://github.com/PabloCastellano/django-graphql-auth2.git@0.3.17
+-e git+ssh://github.com/PabloCastellano/django-graphql-auth2.git@0.3.17#egg=django-graphql-auth
 django-graphql-jwt==0.3.0
 graphene==2.1.9
 graphene-django==2.15.0
